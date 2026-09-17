@@ -1,0 +1,9 @@
+title: Advising resources
+description: Collection of advising links and resources
+url: "https://EmiP210.github.io"
+baseurl: "/advising-resources" 
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
